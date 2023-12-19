@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lyudmila-Chaidak
-- 👀 I’m interested in the cooking
+- 👀 I’m interested in the robotics (LEGO Education on SPIKE PRIME and WE DO 2.0)
 - 🌱 I’m currently learning of the "Web services and applications" courses
-- 💞️ I’m looking to collaborate on in robotics (LEGO Education on SPIKE PRIME and WE DO 2.0)
 - 📫 How to reach me  chaidak.2019@gmail.com
 
 <!---
